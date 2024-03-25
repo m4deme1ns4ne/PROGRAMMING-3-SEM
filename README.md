@@ -10,3 +10,5 @@
 
 
 ---
+
+- [Лабараторная работа 6](https://github.com/m4deme1ns4ne/PROGRAMMING-3-SEM/tree/main/Лабораторная%20работа%206)
