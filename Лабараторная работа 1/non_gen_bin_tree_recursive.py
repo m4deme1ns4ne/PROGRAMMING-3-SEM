@@ -1,4 +1,7 @@
 def gen_bin_tree_non_recursive(height=5, root=10):
+    '''
+    Не рекурсивное бинарное дерево
+    '''
     if height < 1:
         return None
 

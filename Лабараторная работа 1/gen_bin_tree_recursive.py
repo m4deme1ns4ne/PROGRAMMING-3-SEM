@@ -1,4 +1,7 @@
 def gen_bin_tree_recursive(height=5, root=10):
+    '''
+    Рекурсивное бинарное дерево
+    '''
     if height < 1:
         return None
     left_child = root * 3 + 1
