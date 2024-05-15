@@ -1,0 +1,230 @@
+2024-05-15 09:39:19,897 - main - INFO - Testing gen_bin_tree_recursive with height=5, root=10
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=5, root=10
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=4, root=31
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=94
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=283
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=850
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2551
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2549
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 850, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=848
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2545
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2543
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 848, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 283, 'left': {'value': 850, 'left': None, 'right': None}, 'right': {'value': 848, 'left': None, 'right': None}}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=281
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=844
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2533
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2531
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 844, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=842
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2527
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2525
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 842, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 281, 'left': {'value': 844, 'left': None, 'right': None}, 'right': {'value': 842, 'left': None, 'right': None}}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': None, 'right': None}, 'right': {'value': 848, 'left': None, 'right': None}}, 'right': {'value': 281, 'left': {'value': 844, 'left': None, 'right': None}, 'right': {'value': 842, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=92
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=277
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=832
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2497
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2495
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 832, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=830
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2491
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2489
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 830, 'left': None, 'right': None}
+2024-05-15 09:39:19,897 - gen_bin_tree - DEBUG - Generated subtree: {'value': 277, 'left': {'value': 832, 'left': None, 'right': None}, 'right': {'value': 830, 'left': None, 'right': None}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=275
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=826
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2479
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2477
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 826, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=824
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2473
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2471
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 824, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 275, 'left': {'value': 826, 'left': None, 'right': None}, 'right': {'value': 824, 'left': None, 'right': None}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': None, 'right': None}, 'right': {'value': 830, 'left': None, 'right': None}}, 'right': {'value': 275, 'left': {'value': 826, 'left': None, 'right': None}, 'right': {'value': 824, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 31, 'left': {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': None, 'right': None}, 'right': {'value': 848, 'left': None, 'right': None}}, 'right': {'value': 281, 'left': {'value': 844, 'left': None, 'right': None}, 'right': {'value': 842, 'left': None, 'right': None}}}, 'right': {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': None, 'right': None}, 'right': {'value': 830, 'left': None, 'right': None}}, 'right': {'value': 275, 'left': {'value': 826, 'left': None, 'right': None}, 'right': {'value': 824, 'left': None, 'right': None}}}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=4, root=29
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=88
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=265
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=796
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2389
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2387
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 796, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=794
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2383
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2381
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 794, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 265, 'left': {'value': 796, 'left': None, 'right': None}, 'right': {'value': 794, 'left': None, 'right': None}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=263
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=790
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2371
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2369
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 790, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=788
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2365
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2363
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 788, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 263, 'left': {'value': 790, 'left': None, 'right': None}, 'right': {'value': 788, 'left': None, 'right': None}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': None, 'right': None}, 'right': {'value': 794, 'left': None, 'right': None}}, 'right': {'value': 263, 'left': {'value': 790, 'left': None, 'right': None}, 'right': {'value': 788, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=86
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=259
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=778
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2335
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2333
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 778, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=776
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2329
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2327
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 776, 'left': None, 'right': None}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Generated subtree: {'value': 259, 'left': {'value': 778, 'left': None, 'right': None}, 'right': {'value': 776, 'left': None, 'right': None}}
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=257
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=772
+2024-05-15 09:39:19,898 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2317
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2315
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 772, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=770
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2311
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=2309
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 770, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 257, 'left': {'value': 772, 'left': None, 'right': None}, 'right': {'value': 770, 'left': None, 'right': None}}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': None, 'right': None}, 'right': {'value': 776, 'left': None, 'right': None}}, 'right': {'value': 257, 'left': {'value': 772, 'left': None, 'right': None}, 'right': {'value': 770, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 29, 'left': {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': None, 'right': None}, 'right': {'value': 794, 'left': None, 'right': None}}, 'right': {'value': 263, 'left': {'value': 790, 'left': None, 'right': None}, 'right': {'value': 788, 'left': None, 'right': None}}}, 'right': {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': None, 'right': None}, 'right': {'value': 776, 'left': None, 'right': None}}, 'right': {'value': 257, 'left': {'value': 772, 'left': None, 'right': None}, 'right': {'value': 770, 'left': None, 'right': None}}}}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 10, 'left': {'value': 31, 'left': {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': None, 'right': None}, 'right': {'value': 848, 'left': None, 'right': None}}, 'right': {'value': 281, 'left': {'value': 844, 'left': None, 'right': None}, 'right': {'value': 842, 'left': None, 'right': None}}}, 'right': {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': None, 'right': None}, 'right': {'value': 830, 'left': None, 'right': None}}, 'right': {'value': 275, 'left': {'value': 826, 'left': None, 'right': None}, 'right': {'value': 824, 'left': None, 'right': None}}}}, 'right': {'value': 29, 'left': {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': None, 'right': None}, 'right': {'value': 794, 'left': None, 'right': None}}, 'right': {'value': 263, 'left': {'value': 790, 'left': None, 'right': None}, 'right': {'value': 788, 'left': None, 'right': None}}}, 'right': {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': None, 'right': None}, 'right': {'value': 776, 'left': None, 'right': None}}, 'right': {'value': 257, 'left': {'value': 772, 'left': None, 'right': None}, 'right': {'value': 770, 'left': None, 'right': None}}}}}
+2024-05-15 09:39:19,899 - main - INFO - Result of gen_bin_tree_recursive: {'value': 10, 'left': {'value': 31, 'left': {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': None, 'right': None}, 'right': {'value': 848, 'left': None, 'right': None}}, 'right': {'value': 281, 'left': {'value': 844, 'left': None, 'right': None}, 'right': {'value': 842, 'left': None, 'right': None}}}, 'right': {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': None, 'right': None}, 'right': {'value': 830, 'left': None, 'right': None}}, 'right': {'value': 275, 'left': {'value': 826, 'left': None, 'right': None}, 'right': {'value': 824, 'left': None, 'right': None}}}}, 'right': {'value': 29, 'left': {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': None, 'right': None}, 'right': {'value': 794, 'left': None, 'right': None}}, 'right': {'value': 263, 'left': {'value': 790, 'left': None, 'right': None}, 'right': {'value': 788, 'left': None, 'right': None}}}, 'right': {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': None, 'right': None}, 'right': {'value': 776, 'left': None, 'right': None}}, 'right': {'value': 257, 'left': {'value': 772, 'left': None, 'right': None}, 'right': {'value': 770, 'left': None, 'right': None}}}}}
+2024-05-15 09:39:19,899 - main - INFO - Testing gen_bin_tree_non_recursive with height=5, root=10
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=5, root=10
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated tree: {'value': 10, 'left': {'value': 31, 'left': {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': {}, 'right': {}}, 'right': {'value': 848, 'left': {}, 'right': {}}}, 'right': {'value': 281, 'left': {'value': 844, 'left': {}, 'right': {}}, 'right': {'value': 842, 'left': {}, 'right': {}}}}, 'right': {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': {}, 'right': {}}, 'right': {'value': 830, 'left': {}, 'right': {}}}, 'right': {'value': 275, 'left': {'value': 826, 'left': {}, 'right': {}}, 'right': {'value': 824, 'left': {}, 'right': {}}}}}, 'right': {'value': 29, 'left': {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': {}, 'right': {}}, 'right': {'value': 794, 'left': {}, 'right': {}}}, 'right': {'value': 263, 'left': {'value': 790, 'left': {}, 'right': {}}, 'right': {'value': 788, 'left': {}, 'right': {}}}}, 'right': {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': {}, 'right': {}}, 'right': {'value': 776, 'left': {}, 'right': {}}}, 'right': {'value': 257, 'left': {'value': 772, 'left': {}, 'right': {}}, 'right': {'value': 770, 'left': {}, 'right': {}}}}}}
+2024-05-15 09:39:19,899 - main - INFO - Result of gen_bin_tree_non_recursive: {'value': 10, 'left': {'value': 31, 'left': {'value': 94, 'left': {'value': 283, 'left': {'value': 850, 'left': {}, 'right': {}}, 'right': {'value': 848, 'left': {}, 'right': {}}}, 'right': {'value': 281, 'left': {'value': 844, 'left': {}, 'right': {}}, 'right': {'value': 842, 'left': {}, 'right': {}}}}, 'right': {'value': 92, 'left': {'value': 277, 'left': {'value': 832, 'left': {}, 'right': {}}, 'right': {'value': 830, 'left': {}, 'right': {}}}, 'right': {'value': 275, 'left': {'value': 826, 'left': {}, 'right': {}}, 'right': {'value': 824, 'left': {}, 'right': {}}}}}, 'right': {'value': 29, 'left': {'value': 88, 'left': {'value': 265, 'left': {'value': 796, 'left': {}, 'right': {}}, 'right': {'value': 794, 'left': {}, 'right': {}}}, 'right': {'value': 263, 'left': {'value': 790, 'left': {}, 'right': {}}, 'right': {'value': 788, 'left': {}, 'right': {}}}}, 'right': {'value': 86, 'left': {'value': 259, 'left': {'value': 778, 'left': {}, 'right': {}}, 'right': {'value': 776, 'left': {}, 'right': {}}}, 'right': {'value': 257, 'left': {'value': 772, 'left': {}, 'right': {}}, 'right': {'value': 770, 'left': {}, 'right': {}}}}}}
+2024-05-15 09:39:19,899 - main - INFO - Testing gen_bin_tree_recursive with height=3, root=2
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=2
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=7
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=22
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=67
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=65
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 22, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=20
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=61
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=59
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 20, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=5
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=16
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=49
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=47
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 16, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=14
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=43
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=41
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 14, 'left': None, 'right': None}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated subtree: {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}, 'right': {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,899 - main - INFO - Result of gen_bin_tree_recursive: {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}, 'right': {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,899 - main - INFO - Testing gen_bin_tree_non_recursive with height=3, root=2
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=3, root=2
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Generated tree: {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': {}, 'right': {}}, 'right': {'value': 20, 'left': {}, 'right': {}}}, 'right': {'value': 5, 'left': {'value': 16, 'left': {}, 'right': {}}, 'right': {'value': 14, 'left': {}, 'right': {}}}}
+2024-05-15 09:39:19,899 - main - INFO - Result of gen_bin_tree_non_recursive: {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': {}, 'right': {}}, 'right': {'value': 20, 'left': {}, 'right': {}}}, 'right': {'value': 5, 'left': {'value': 16, 'left': {}, 'right': {}}, 'right': {'value': 14, 'left': {}, 'right': {}}}}
+2024-05-15 09:39:19,899 - main - INFO - Testing gen_bin_tree_recursive with height=4, root=1
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=4, root=1
+2024-05-15 09:39:19,899 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=4
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=13
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=40
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=121
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=119
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 40, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=38
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=115
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=113
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 38, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 13, 'left': {'value': 40, 'left': None, 'right': None}, 'right': {'value': 38, 'left': None, 'right': None}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=11
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=34
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=103
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=101
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 34, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=32
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=97
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=95
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 32, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 11, 'left': {'value': 34, 'left': None, 'right': None}, 'right': {'value': 32, 'left': None, 'right': None}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 4, 'left': {'value': 13, 'left': {'value': 40, 'left': None, 'right': None}, 'right': {'value': 38, 'left': None, 'right': None}}, 'right': {'value': 11, 'left': {'value': 34, 'left': None, 'right': None}, 'right': {'value': 32, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=2
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=7
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=22
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=67
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=65
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 22, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=20
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=61
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=59
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 20, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=2, root=5
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=16
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=49
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=47
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 16, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=1, root=14
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=43
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=41
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 14, 'left': None, 'right': None}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}, 'right': {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}}
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated subtree: {'value': 1, 'left': {'value': 4, 'left': {'value': 13, 'left': {'value': 40, 'left': None, 'right': None}, 'right': {'value': 38, 'left': None, 'right': None}}, 'right': {'value': 11, 'left': {'value': 34, 'left': None, 'right': None}, 'right': {'value': 32, 'left': None, 'right': None}}}, 'right': {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}, 'right': {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}}}
+2024-05-15 09:39:19,900 - main - INFO - Result of gen_bin_tree_recursive: {'value': 1, 'left': {'value': 4, 'left': {'value': 13, 'left': {'value': 40, 'left': None, 'right': None}, 'right': {'value': 38, 'left': None, 'right': None}}, 'right': {'value': 11, 'left': {'value': 34, 'left': None, 'right': None}, 'right': {'value': 32, 'left': None, 'right': None}}}, 'right': {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': None, 'right': None}, 'right': {'value': 20, 'left': None, 'right': None}}, 'right': {'value': 5, 'left': {'value': 16, 'left': None, 'right': None}, 'right': {'value': 14, 'left': None, 'right': None}}}}
+2024-05-15 09:39:19,900 - main - INFO - Testing gen_bin_tree_non_recursive with height=4, root=1
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=4, root=1
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Generated tree: {'value': 1, 'left': {'value': 4, 'left': {'value': 13, 'left': {'value': 40, 'left': {}, 'right': {}}, 'right': {'value': 38, 'left': {}, 'right': {}}}, 'right': {'value': 11, 'left': {'value': 34, 'left': {}, 'right': {}}, 'right': {'value': 32, 'left': {}, 'right': {}}}}, 'right': {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': {}, 'right': {}}, 'right': {'value': 20, 'left': {}, 'right': {}}}, 'right': {'value': 5, 'left': {'value': 16, 'left': {}, 'right': {}}, 'right': {'value': 14, 'left': {}, 'right': {}}}}}
+2024-05-15 09:39:19,900 - main - INFO - Result of gen_bin_tree_non_recursive: {'value': 1, 'left': {'value': 4, 'left': {'value': 13, 'left': {'value': 40, 'left': {}, 'right': {}}, 'right': {'value': 38, 'left': {}, 'right': {}}}, 'right': {'value': 11, 'left': {'value': 34, 'left': {}, 'right': {}}, 'right': {'value': 32, 'left': {}, 'right': {}}}}, 'right': {'value': 2, 'left': {'value': 7, 'left': {'value': 22, 'left': {}, 'right': {}}, 'right': {'value': 20, 'left': {}, 'right': {}}}, 'right': {'value': 5, 'left': {'value': 16, 'left': {}, 'right': {}}, 'right': {'value': 14, 'left': {}, 'right': {}}}}}
+2024-05-15 09:39:19,900 - main - INFO - Testing gen_bin_tree_recursive with height=0, root=1
+2024-05-15 09:39:19,900 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=0, root=1
+2024-05-15 09:39:19,900 - main - INFO - Result of gen_bin_tree_recursive: None
+2024-05-15 09:39:19,900 - main - INFO - Testing gen_bin_tree_non_recursive with height=0, root=1
+2024-05-15 09:39:19,901 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=0, root=1
+2024-05-15 09:39:19,901 - main - INFO - Result of gen_bin_tree_non_recursive: None
+2024-05-15 09:39:19,901 - main - INFO - Testing gen_bin_tree_recursive with height=-1, root=10
+2024-05-15 09:39:19,901 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=-1, root=10
+2024-05-15 09:39:19,901 - gen_bin_tree - ERROR - Invalid height: -1
+2024-05-15 09:39:19,901 - main - ERROR - Exception occurred: Height must be a non-negative integer
+Traceback (most recent call last):
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/main.py", line 18, in main
+    tree_recursive = gen_bin_tree_recursive(height, root)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/recursive_tree.py", line 8, in gen_bin_tree_recursive
+    raise InvalidHeightError(height)
+exceptions.InvalidHeightError: Height must be a non-negative integer
+2024-05-15 09:39:19,902 - main - INFO - Testing gen_bin_tree_non_recursive with height=-1, root=10
+2024-05-15 09:39:19,902 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=-1, root=10
+2024-05-15 09:39:19,902 - gen_bin_tree - ERROR - Invalid height: -1
+2024-05-15 09:39:19,902 - main - ERROR - Exception occurred: Height must be a non-negative integer
+Traceback (most recent call last):
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/main.py", line 25, in main
+    tree_non_recursive = gen_bin_tree_non_recursive(height, root)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/non_recursive_tree.py", line 8, in gen_bin_tree_non_recursive
+    raise InvalidHeightError(height)
+exceptions.InvalidHeightError: Height must be a non-negative integer
+2024-05-15 09:39:19,902 - main - INFO - Testing gen_bin_tree_recursive with height=3, root=0
+2024-05-15 09:39:19,902 - gen_bin_tree - DEBUG - Called gen_bin_tree_recursive with height=3, root=0
+2024-05-15 09:39:19,902 - gen_bin_tree - ERROR - Invalid root: 0
+2024-05-15 09:39:19,902 - main - ERROR - Exception occurred: Root must be a positive integer
+Traceback (most recent call last):
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/main.py", line 18, in main
+    tree_recursive = gen_bin_tree_recursive(height, root)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/recursive_tree.py", line 11, in gen_bin_tree_recursive
+    raise InvalidRootError(root)
+exceptions.InvalidRootError: Root must be a positive integer
+2024-05-15 09:39:19,903 - main - INFO - Testing gen_bin_tree_non_recursive with height=3, root=0
+2024-05-15 09:39:19,903 - gen_bin_tree - DEBUG - Called gen_bin_tree_non_recursive with height=3, root=0
+2024-05-15 09:39:19,907 - gen_bin_tree - ERROR - Invalid root: 0
+2024-05-15 09:39:19,907 - main - ERROR - Exception occurred: Root must be a positive integer
+Traceback (most recent call last):
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/main.py", line 25, in main
+    tree_non_recursive = gen_bin_tree_non_recursive(height, root)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aleksandrvolzanin/university/PROGRAMMING-3-sem/Лабараторная работа 3-4/non_recursive_tree.py", line 11, in gen_bin_tree_non_recursive
+    raise InvalidRootError(root)
+exceptions.InvalidRootError: Root must be a positive integer
